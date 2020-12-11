@@ -15,7 +15,7 @@ namespace UnoSquare_Maintenance
         {
             driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(15);
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(20);
             return driver;
         }
 
@@ -33,6 +33,7 @@ namespace UnoSquare_Maintenance
         By GoogleSearchBar = By.XPath("//form[@id='tsf']//div[@class='A8SBwf']//div[@class='a4bIc']/input[@role='combobox']");
         By GoogleSearIcon = By.XPath("/html//form[@id='tsf']//div[@class='A8SBwf']/div[@class='FPdoLc tfB0Bf']/center/input[@name='btnK']");
         By UnoSquareGoogleResult = By.XPath("/html//div[@id='rso']//div//a[@href='https://www.unosquare.com/']");
+        By GoogleOutSearchResult = By.XPath("//form[@id='tsf']/div[2]");
         #endregion
 
         #region UnoSquare Locators
@@ -52,7 +53,11 @@ namespace UnoSquare_Maintenance
 
             program.SendText(element, "Unosquare");
 
-            element = Browser.FindElement(program.GoogleSearIcon);
+            element = Browser.FindElement(program.GoogleOutSearchResult);
+
+            program.Click(element);
+
+            element = Browser.FindElement(program.GoogleSearIcon);                      
 
             program.Click(element);
 
