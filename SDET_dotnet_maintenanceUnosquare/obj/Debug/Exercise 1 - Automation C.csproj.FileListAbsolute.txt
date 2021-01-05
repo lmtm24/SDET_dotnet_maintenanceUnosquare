@@ -1,0 +1,42 @@
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\SDET_dotnet_maintenanceUnosquare.exe.config
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\SDET_dotnet_maintenanceUnosquare.exe
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\SDET_dotnet_maintenanceUnosquare.pdb
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\WebDriver.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\WebDriver.xml
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\obj\Debug\Exercise 1 - Automation C.csprojAssemblyReference.cache
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\obj\Debug\Exercise 1 - Automation C.csproj.CoreCompileInputs.cache
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\obj\Debug\Exercise 1 - Automation C.csproj.CopyComplete
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\obj\Debug\SDET_dotnet_maintenanceUnosquare.exe
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\obj\Debug\SDET_dotnet_maintenanceUnosquare.pdb
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.Runtime.dll
+C:\Users\luis.toscano\source\repos\lmtm24\Exercise 1 - Automation C\SDET_dotnet_maintenanceUnosquare\bin\Debug\IKVM.Runtime.JNI.dll

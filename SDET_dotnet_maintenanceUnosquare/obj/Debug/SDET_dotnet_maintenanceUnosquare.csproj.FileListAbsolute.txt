@@ -1,0 +1,10 @@
+C:\Users\luis.toscano\Source\Repos\lmtm24\SDET_dotnet_maintenanceUnosquare\SDET_dotnet_maintenanceUnosquare\bin\Debug\SDET_dotnet_maintenanceUnosquare.exe.config
+C:\Users\luis.toscano\Source\Repos\lmtm24\SDET_dotnet_maintenanceUnosquare\SDET_dotnet_maintenanceUnosquare\bin\Debug\SDET_dotnet_maintenanceUnosquare.exe
+C:\Users\luis.toscano\Source\Repos\lmtm24\SDET_dotnet_maintenanceUnosquare\SDET_dotnet_maintenanceUnosquare\bin\Debug\SDET_dotnet_maintenanceUnosquare.pdb
+C:\Users\luis.toscano\Source\Repos\lmtm24\SDET_dotnet_maintenanceUnosquare\SDET_dotnet_maintenanceUnosquare\bin\Debug\WebDriver.dll
+C:\Users\luis.toscano\Source\Repos\lmtm24\SDET_dotnet_maintenanceUnosquare\SDET_dotnet_maintenanceUnosquare\bin\Debug\WebDriver.xml
+C:\Users\luis.toscano\Source\Repos\lmtm24\SDET_dotnet_maintenanceUnosquare\SDET_dotnet_maintenanceUnosquare\obj\Debug\SDET_dotnet_maintenanceUnosquare.csprojAssemblyReference.cache
+C:\Users\luis.toscano\Source\Repos\lmtm24\SDET_dotnet_maintenanceUnosquare\SDET_dotnet_maintenanceUnosquare\obj\Debug\SDET_dotnet_maintenanceUnosquare.csproj.CoreCompileInputs.cache
+C:\Users\luis.toscano\Source\Repos\lmtm24\SDET_dotnet_maintenanceUnosquare\SDET_dotnet_maintenanceUnosquare\obj\Debug\SDET_dotnet_maintenanceUnosquare.csproj.CopyComplete
+C:\Users\luis.toscano\Source\Repos\lmtm24\SDET_dotnet_maintenanceUnosquare\SDET_dotnet_maintenanceUnosquare\obj\Debug\SDET_dotnet_maintenanceUnosquare.exe
+C:\Users\luis.toscano\Source\Repos\lmtm24\SDET_dotnet_maintenanceUnosquare\SDET_dotnet_maintenanceUnosquare\obj\Debug\SDET_dotnet_maintenanceUnosquare.pdb
